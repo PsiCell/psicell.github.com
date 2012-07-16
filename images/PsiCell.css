@@ -27,7 +27,7 @@ body {
 /* Links */
 a, a:visited {
 	text-decoration: none;
-	color: #666666;
+	color: #999999;
 }
 a:hover {
 	color: #fff;
@@ -65,6 +65,7 @@ h4 {
 /*	background: #090909; */
 }
 h5 {
+	display: block;
 	
 }
 
@@ -261,8 +262,8 @@ input.button {
 	color: #CCCCCC;
 	width: 350px;
 	/* change the values of top and left to adjust the position */
-	top: 286px;
-	left: 49px;
+	top: 283px;
+	left: 91px;
 	height: 30px;
 }
 
@@ -297,8 +298,8 @@ input.button {
 	color: #CCCCCC;
 	width: 400px;
 	/* change the values of top and left to adjust the position */
-	top: 317px;
-	left: 67px;
+	top: 315px;
+	left: 122px;
 }
 
 #header p#author {
